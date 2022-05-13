@@ -1,0 +1,20 @@
+{
+  "name": "3dstownsquare-bot",
+  "version": "1.0.0",
+  "description": "A bot that bridges messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [
+    "bot",
+    "discord"
+  ],
+  "author": "HxOr1337",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.7.0",
+    "node-fetch": "^3.2.4"
+  }
+}
