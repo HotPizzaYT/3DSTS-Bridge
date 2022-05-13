@@ -1,6 +1,6 @@
 # 3DSTownSquare Bridge Discord Bot
 
-This is a Discord bot for (3DSTownsquare)[http://github.com/HotPizzaYT/3DSTownSquare], but I expect you to figure this out on your own.
+This is a Discord bot for [http://github.com/HotPizzaYT/3DSTownSquare](3DSTownSquare), but I expect you to figure this out on your own.
 
 To set up, paste your bot token, key and channel ID in index.js.
 
